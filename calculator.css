@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+}
+input {
+  width: 21%;
+  height: 70px;
+  border: none;
+  background-color: black;
+}
+button {
+  width: 5%;
+  height: 60px;
+  border-radius: 50%;
+  gap: 5px;
+  border: none;
+}
